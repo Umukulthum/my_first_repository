@@ -1,0 +1,9 @@
+.styledFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: green;
+}
+#styledImage {
+    border: 7px solid orange;
+    border-radius: 5px;
+}
